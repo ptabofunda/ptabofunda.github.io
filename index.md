@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-<img src="{{ self_image }}" alt="me" />
+<img src="./assets/img/me.png" alt="me" />
 
 Hi there! You have found me GitHub page. My name is Pedro Tabofunda. I am a Senior Test Engineer. I have 20+ years as a test and engineering productivity professional.
 
