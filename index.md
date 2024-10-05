@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-<img src="./assets/img/me.png" alt="me" style="width: 50%; height: auto; />
+<img src="./assets/img/me.png" alt="me" style="width: 20%; height: auto;" />
 
 Hi there! You have found my GitHub page. My name is Pedro Tabofunda. I am a Senior Test Engineer. I have 20+ years experience as a software test engineering productivity professional. I have a passion for using technology to solve complex problems and create innovative solutions.
 
