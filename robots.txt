@@ -10,3 +10,6 @@ Disallow: /docs/
 Disallow: /script/
 Disallow: /*.yml
 Allow: /*.md
+
+User-agent: Googlebot
+Disallow:
