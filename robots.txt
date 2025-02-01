@@ -1,0 +1,15 @@
+User-agent: GPTBot
+Disallow: /
+
+User-agent: *
+Disallow: /.github/
+Disallow: /_includes/
+Disallow: /_sass/
+Disallow: /assets/
+Disallow: /docs/
+Disallow: /script/
+Disallow: /*.yml
+Allow: /*.md
+
+User-agent: Googlebot
+Disallow:
