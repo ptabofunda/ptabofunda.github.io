@@ -1,6 +1,16 @@
-User-agent: GPTBot
-Disallow: /
+# Microsoft Bing
+User-agent: bingbot
+Allow: /
 
+# DuckDuckGo
+User-agent: DuckDuckBot
+Allow: /
+
+# Apple Search
+User-agent: Applebot
+Allow: /
+
+# Block everything else
 User-agent: *
 Disallow: /.github/
 Disallow: /_includes/
@@ -10,6 +20,3 @@ Disallow: /docs/
 Disallow: /script/
 Disallow: /*.yml
 Allow: /*.md
-
-User-agent: Googlebot
-Disallow:
